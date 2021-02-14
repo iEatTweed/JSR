@@ -1,8 +1,3 @@
-/*Programmer Trevor Eales
-Date: February 13, 2021
-CSC201-Z01S
-Assignment: Group Assignment 3 (Exercise03_05Extra)
-Description: This program draws a random card from a standard playing deck */
 public class Exercise03_05Extra {
     public static void main(String[] args) {
     // Generate a random number from 0-51
